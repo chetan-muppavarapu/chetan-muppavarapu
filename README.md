@@ -9,7 +9,7 @@ I am a Data Analytics Engineering graduate student with a strong foundation in d
 I previously worked as a Web Developer Intern at Phoenix Global and as a Programmer Analyst Trainee at Cognizant Technology Solutions, where I supported .NET-based healthcare systems within the Facet domain. These roles strengthened my understanding of scalable software systems, data workflows, and professional engineering practices.
 
 ### 🎓 Academic & Professional Experience
-During my master’s program, I completed advanced coursework in Big Data Analytics, Data Mining, Applied Machine Learning, Healthcare Databases, Data Visualization, Optimization, and Statistical Analysis. I am currently working on a real-time Data Analytics Capstone Project, applying analytical and technical skills to practical, real-world scenarios.
+During my master’s program, I completed advanced coursework in Big Data Analytics, Data Mining, Applied Machine Learning, Healthcare Databases, Data Visualization, Optimization, and Statistical Analysis. I am currently working on a real-time data analytics capstone project as a Data Analytics Developer Associate with Allywn Corporation, where I am focused on converting Oracle Hyperion reports into Tableau dashboards using Generative AI coding assistants. This project enables me to apply my analytical and technical skills to solve practical, real-world business problems.
 
 Alongside my academics, I serve as a Graduate Teaching Assistant for Marketing Management (MKTG 471) at George Mason University and previously supported Marketing Research (MKTG 351). I have also begun my role as a Graduate Research Assistant in the marketing domain, assisting with data analysis, academic research, and publication support.
 

@@ -1,17 +1,19 @@
 ## 👋 Hello, I'm Chetan Muppavarapu
 
-🎓 Master’s Student in Data Analytics Engineering  
-🏫 George Mason University | Expected Graduation: Summer 2026  
+🎓 Master’s Graduate in Data Analytics Engineering  
+🏫 George Mason University | GPA: 3.90/4.0  
 
 ### About Me
-I am a Data Analytics Engineering graduate student with a strong foundation in data analytics, data engineering, big data systems, and cloud technologies. I hold a Bachelor’s degree in Computer Science from GITAM University with a CGPA of 8.59 and have hands-on industry experience in enterprise application development and analytics-driven problem solving.
+I recently graduated with a Master of Science in Data Analytics Engineering from George Mason University. I also hold a Bachelor’s degree in Computer Science from GITAM University with a CGPA of 8.59/10. My academic and professional journey has helped me build a strong foundation in data analytics, data engineering, machine learning, big data systems, and cloud technologies.
 
-I previously worked as a Web Developer Intern at Phoenix Global and as a Programmer Analyst Trainee at Cognizant Technology Solutions, where I supported .NET-based healthcare systems within the Facet domain. These roles strengthened my understanding of scalable software systems, data workflows, and professional engineering practices.
+I previously worked as a Web Developer Intern at Phoenix Global and as a Programmer Analyst Trainee at Cognizant Technology Solutions, where I supported .NET-based enterprise healthcare systems within the Facets domain. These experiences strengthened my understanding of scalable software systems, enterprise application development, production support, and analytics-driven problem solving.
 
 ### 🎓 Academic & Professional Experience
-During my master’s program, I completed advanced coursework in Big Data Analytics, Data Mining, Applied Machine Learning, Healthcare Databases, Data Visualization, Optimization, and Statistical Analysis. I am currently working on a real-time data analytics capstone project as a Data Analytics Developer Associate with Allywn Corporation, where I am focused on converting Oracle Hyperion reports into Tableau dashboards using Generative AI coding assistants. This project enables me to apply my analytical and technical skills to solve practical, real-world business problems.
+During my master’s program, I completed advanced coursework in Big Data Analytics, Data Mining, Applied Machine Learning, Healthcare Databases, Data Visualization, Optimization, and Statistical Analysis.
 
-Alongside my academics, I serve as a Graduate Teaching Assistant for Marketing Management (MKTG 471) at George Mason University and previously supported Marketing Research (MKTG 351). I have also begun my role as a Graduate Research Assistant in the marketing domain, assisting with data analysis, academic research, and publication support.
+As part of my final semester capstone program at George Mason University, I collaborated with Allwyn Corporation on a real-world analytics modernization project focused on converting Oracle Hyperion reports into Tableau dashboards using Generative AI coding assistants. The project involved developing Python-based transformation and validation pipelines, automating reporting workflows, designing Tableau-ready financial data models, and supporting scalable enterprise reporting solutions.
+
+Alongside my academics, I worked as a Graduate Teaching Assistant for Marketing Management (MKTG 471) and Marketing Research (MKTG 351) at George Mason University. I also served as a Graduate Research Assistant in the marketing area, supporting research initiatives, academic publications, literature reviews, and data validation activities.
 
 ### 🧠 Core Technical Skills
 Python, SQL, Java, R, C#, .NET  
@@ -19,25 +21,25 @@ Data Analytics, Data Engineering, Applied Machine Learning
 Predictive Modeling, Statistical Analysis, Feature Engineering  
 
 ### ☁️ Big Data & Cloud
-Apache Spark, ETL pipelines, large-scale data processing  
-Amazon Web Services including EC2, S3, Athena, Redshift, RDS, SageMaker  
-Cloud-based data workflows and scalable analytics systems  
+Apache Spark, ETL Pipelines, Large-Scale Data Processing  
+Amazon Web Services (AWS): EC2, S3, Athena, Redshift, RDS, SageMaker  
+Cloud-Based Data Workflows and Scalable Analytics Systems  
 
 ### 🗄️ Databases
 MySQL, SQL Server, Oracle  
-NoSQL databases including MongoDB and Cassandra  
+MongoDB, Cassandra  
 
 ### 📊 Data Visualization & BI
 Tableau, Power BI, Qlik Sense  
-Data-driven reporting and analytical dashboards  
+Data-Driven Reporting and Analytical Dashboards  
 
 ### 🛠️ Tools & Development Environment
-Git, Visual Studio Code, Jupyter Notebook, RStudio, Eclipse  
+Git, GitHub, Visual Studio Code, Jupyter Notebook, RStudio, Eclipse  
 Informatica, Talend, AWS Glue  
-Excel-based analytics and optimization tools  
+Excel-Based Analytics and Optimization Tools  
 
 ### 🎯 Career Interests
-I am actively seeking internship and full-time opportunities as a Data Analyst, Data Engineer, or Cloud Engineer, with a strong interest in data-driven solutions, cloud-native analytics platforms, and scalable data infrastructure.
+I am currently seeking full-time opportunities in Data Analytics, Data Engineering, Cloud Engineering, and related technology roles. I am passionate about building scalable data solutions, cloud-native analytics platforms, and data-driven business intelligence systems.
 
 ### 🔗 Connect With Me
 LinkedIn  
